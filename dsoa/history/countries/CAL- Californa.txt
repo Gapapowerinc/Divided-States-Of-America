@@ -84,16 +84,16 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = communism
+	ruling_party = democratic
 	last_election = "1934.2.11"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Alfonso López Pumarejo"
+	name = "Frank Merriam"
 	desc = "POLITICS_ALFONSO_LOPEZ_PUMAREJO_DESC"
-	picture = "GFX_Portrait_columbia_alfonso_lopez"
+	picture = "Frank.dds"
 	expire = "1965.1.1"
 	ideology = liberalism
 	traits = {
